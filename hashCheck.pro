@@ -2,6 +2,8 @@
 #
 # Project created by QtCreator 2014-10-19T19:52:23
 #
+#Copyright 2015 Adam Quintero
+#This program is distributed under the terms of the GNU General Public License.
 #-------------------------------------------------
 
 QT       += core gui
